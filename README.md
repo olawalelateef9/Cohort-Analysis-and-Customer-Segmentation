@@ -1,2 +1,3 @@
 # Cohort-Analysis-and-Customer-Segmentation
 This project applies cohort analysis and DBSCAN clustering to analyze customer purchasing behavior. 
+Cohort analysis groups customers based on their first purchase date to track retention patterns and long-term engagement trends. DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is used for customer segmentation, identifying distinct groups based on purchasing frequency, spending patterns, and product preferences. Unlike traditional clustering methods, DBSCAN effectively detects outliers, helping to identify high-value customers, potential churners, and niche market segments. The insights from this analysis can drive personalized marketing strategies and improve customer retention.
