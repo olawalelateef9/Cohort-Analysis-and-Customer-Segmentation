@@ -1,0 +1,9 @@
+import mlflow
+
+# Set tracking URI
+mlflow.set_tracking_uri("file:///C:/Users/User/Amdari_1/mlruns")
+
+# Create experiment
+experiment_id = mlflow.create_experiment("CatBoost Jewelry Price Predictor")
+
+print(f"Experiment created with ID: {experiment_id}")

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Amdari_Project/mlruns/613807315340094061/fdb9aad8d9864ad099f94e38ace821ed/artifacts
+end_time: 1739949297940
+entry_point_name: ''
+experiment_id: '613807315340094061'
+lifecycle_stage: active
+run_id: fdb9aad8d9864ad099f94e38ace821ed
+run_name: ExtraTrees
+run_uuid: fdb9aad8d9864ad099f94e38ace821ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739949288254
+status: 3
+tags: []
+user_id: User

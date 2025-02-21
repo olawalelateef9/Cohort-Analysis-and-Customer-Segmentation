@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Amdari_Project/mlruns/613807315340094061/72a4ec1b4ec54d5598524ee8601d4888/artifacts
+end_time: 1739949278438
+entry_point_name: ''
+experiment_id: '613807315340094061'
+lifecycle_stage: active
+run_id: 72a4ec1b4ec54d5598524ee8601d4888
+run_name: Linear Regression
+run_uuid: 72a4ec1b4ec54d5598524ee8601d4888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739949268009
+status: 3
+tags: []
+user_id: User

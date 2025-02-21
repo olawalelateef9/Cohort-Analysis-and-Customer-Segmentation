@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/Amdari_Project/mlruns/613807315340094061/b30c821a4e08473abe041276374179dd/artifacts
+end_time: 1739949267993
+entry_point_name: ''
+experiment_id: '613807315340094061'
+lifecycle_stage: active
+run_id: b30c821a4e08473abe041276374179dd
+run_name: CatBoost
+run_uuid: b30c821a4e08473abe041276374179dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739949253251
+status: 3
+tags: []
+user_id: User
